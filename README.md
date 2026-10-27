@@ -1,6 +1,6 @@
 ### Hi, I'm Lakshya 👋
 
-First-year ECE student at CBIT, Hyderabad. I work on embedded systems, sensors, and digital design (Verilog).
+Second-year ECE student at CBIT, Hyderabad. I work on embedded systems, sensors, and digital design (Verilog).
 
 **Projects**
 - **Rotor Vibration Monitor**: ESP32 + MPU6050 vibration analysis and imbalance detection for rotating machinery
